@@ -18,7 +18,8 @@ This project is developed for learning react and for understanding react compone
 ![login](https://github.com/ashik-23402/QuizApp-React-js-Learn-1-/assets/102418282/547d08ac-be17-4034-a928-8f88830f9d8e)
 
 ## QuizPage
-![quiz](https://github.com/ashik-23402/QuizApp-React-js-Learn-1-/assets/102418282/de6bba11-21b8-4a3a-8e23-5b8f97606418)
+![quizf](https://github.com/ashik-23402/QuizApp-React-js-Learn-1-/assets/102418282/6cb6e251-fe4e-45ea-af27-17ad1dfe95fe)
+
 
 ## Marks Page
 
